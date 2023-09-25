@@ -2,3 +2,6 @@
 this is the one of the biggest file that help in creating the git hub 
 
 created by nikhil pandey.
+
+# Devloper 
+Nikhil Pandey he is the devloper  
